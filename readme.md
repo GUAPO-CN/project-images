@@ -8,7 +8,7 @@
 
 
 ##滴加新车礼包项目（小程序 滴加智慧门店）
-![Image text](https://github.com/GUAPO-CN/project-images/blob/master/images/33.jpg)
+![Image text](https://github.com/GUAPO-CN/project-images/blob/master/images/331.jpg)
 
 
 ##鲸鱼阅读app（h5活动页 鲸鱼阅读）
